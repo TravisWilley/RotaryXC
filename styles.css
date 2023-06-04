@@ -26,7 +26,7 @@ nav a {
   margin-bottom: auto;
 }
 nav a:hover {
-  color: rgb(222, 17, 17);
+  color: rgb(203, 132, 34);
   transform: translateY(-2px);
   transition: ease all 0.4;
 }
@@ -35,7 +35,8 @@ nav a:hover {
   font-size: 350%;
   margin-top: auto;
   margin-bottom: auto;
-  color: midnightblue;
+  color: rgb(171, 63, 13);
+  text-shadow: 2px 1px 5px black;
 }
 #title:hover {
 }
