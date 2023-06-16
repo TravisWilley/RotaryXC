@@ -107,6 +107,9 @@ footer {
 .pics {
   display: flex;
 }
+.pics img {
+  border: solid lightblue 2px;
+}
 .cards {
   display: flex;
   justify-content: space-around;
